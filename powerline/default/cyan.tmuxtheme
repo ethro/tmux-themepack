@@ -50,7 +50,7 @@ set -gqF @themepack-window-status-format "#{@themepack-window-status-prefix}#{@t
 set -goq @powerline-color-main-1 colour39
 set -goq @powerline-color-main-2 colour81
 set -goq @powerline-color-main-3 colour75
-set -goq @powerline-color-black-1 black
+set -goq @powerline-color-black-1 colour232
 set -goq @powerline-color-grey-1 colour233
 set -goq @powerline-color-grey-2 colour235
 set -goq @powerline-color-grey-3 colour238
